@@ -1,0 +1,27 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+alt+f",
+        "command": "editor.action.formatDocument"
+    },
+    {
+        "key": "ctrl+alt+b",
+        "command": "-editor.action.formatDocument"
+    },
+    {
+        "key": "shift+alt+m",
+        "command": "npm-intellisense.import"
+    },
+    {
+        "key": "shift+cmd+\\",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "shift+alt+t",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+alt+t",
+        "command": "-workbench.action.terminal.toggleTerminal"
+    },
+]

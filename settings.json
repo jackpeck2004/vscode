@@ -1,0 +1,26 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "sync.gist": "3ddf25c7166e904d57a9bddf36d2f2db",
+    "todo-tree.tree.showScanModeButton": false,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "terminal.external.osxExec": "iTerm.app",
+    "workbench.activityBar.visible": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "window.zoomLevel": 0,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "editor.lineNumbers": "on"
+}

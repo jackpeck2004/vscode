@@ -1,0 +1,44 @@
+[
+	{
+		"name": "looop",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/looop",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "mara_di_giorgio_gatsby",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/mara_di_giorgio_gatsby",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "personal_website_gatsby",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/personal_website_gatsby",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "schedule_app",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/schedule_app",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "test_site_theme",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/Sites/test_site/wp-content/themes/giacomoPasin",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "orientamento",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/Sites/orientamento/wp-content/themes/orientamento",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	}
+]
