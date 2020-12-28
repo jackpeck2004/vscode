@@ -1,0 +1,68 @@
+{
+	"Basic Class Component": {
+		"prefix": "cc",
+		"body": [
+			"import React from 'react'",
+			"",
+			"class $1 extends React.Component {",
+			"\trender() {",
+			"\t\treturn {",
+			"\t\t\t<div className='$2'>",
+			"\t\t\t\t$3",
+			"\t\t\t</div>",
+			"\t}",
+			"}",
+			"",
+			"export default $1"
+		],
+		"description": "Basic Class Component"
+	},
+	"State Props Class Component": {
+		"prefix": "psc",
+		"body": [
+			"import React from 'react'",
+			"",
+			"interface $1Props {",
+			"\t$3",
+			"}",
+			"",
+			"interface $1State {",
+			"\t$4",
+			"}",
+			"",
+			"class $1 extends React.Component<$1Props, $1State> {",
+			"\tconstructor(props: $1Props) {",
+			"\t\tsuper(props)",
+			"",
+			"\t\tthis.state = {",
+			"\t\t\t$5",
+			"\t\t}",
+			"",
+			"\trender() {",
+			"\t\treturn {",
+			"\t\t\t<div className='$2'>",
+			"\t\t\t\t$6",
+			"\t\t\t</div>",
+			"\t}",
+			"}",
+			"",
+			"export default $1"
+		],
+		"description": "Class Component with State and Props"
+	},
+	"Basic React Component": {
+		"prefix": "rfc",
+		"body": [
+			"import React from 'react'",
+			"",
+			"const $1 = ($2) => {",
+			"",
+			"\treturn (",
+			"\t\t<div className='$3'>",
+			"\t\t\t$4",
+			"\t\t</div>",
+			"\t);",
+			"}"
+		]
+	}
+}

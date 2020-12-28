@@ -7,7 +7,7 @@
     "editor.fontSize": 14,
     "terminal.external.osxExec": "iTerm.app",
     "workbench.activityBar.visible": false,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "vscode-icons",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -22,5 +22,8 @@
     "git.enableSmartCommit": true,
     "git.autofetch": true,
     "git.confirmSync": false,
-    "editor.lineNumbers": "on"
+    "editor.lineNumbers": "on",
+    "workbench.colorTheme": "Default Dark+",
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false
 }
