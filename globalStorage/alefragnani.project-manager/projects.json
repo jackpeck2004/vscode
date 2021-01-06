@@ -1,12 +1,5 @@
 [
 	{
-		"name": "looop",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/looop",
-		"paths": [],
-		"group": "",
-		"enabled": true
-	},
-	{
 		"name": "mara_di_giorgio_gatsby",
 		"rootPath": "/Users/jackpeck/Documents/dev/Web/mara_di_giorgio_gatsby",
 		"paths": [],
@@ -28,8 +21,8 @@
 		"enabled": true
 	},
 	{
-		"name": "test_site_theme",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/Sites/test_site/wp-content/themes/giacomoPasin",
+		"name": "twin media center",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/Sites/twin/wp-content/themes/sage",
 		"paths": [],
 		"group": "",
 		"enabled": true

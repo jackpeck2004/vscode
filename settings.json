@@ -23,7 +23,7 @@
     "git.autofetch": true,
     "git.confirmSync": false,
     "editor.lineNumbers": "on",
-    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorTheme": "morgan.codes",
     "explorer.confirmDragAndDrop": false,
     "editor.minimap.enabled": false
 }
