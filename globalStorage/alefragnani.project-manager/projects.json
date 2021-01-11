@@ -22,14 +22,21 @@
 	},
 	{
 		"name": "twin media center",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/Sites/twin/wp-content/themes/sage",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/wp_sites/twin_mktg/web/app/themes/twin",
 		"paths": [],
 		"group": "",
 		"enabled": true
 	},
 	{
 		"name": "orientamento",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/Sites/orientamento/wp-content/themes/orientamento",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/wp_sites/orientamento/wp-content/themes/orientamento",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "geoapp",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/geoapp",
 		"paths": [],
 		"group": "",
 		"enabled": true
