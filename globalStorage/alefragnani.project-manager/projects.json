@@ -1,21 +1,7 @@
 [
 	{
-		"name": "mara_di_giorgio_gatsby",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/mara_di_giorgio_gatsby",
-		"paths": [],
-		"group": "",
-		"enabled": true
-	},
-	{
 		"name": "personal_website_gatsby",
 		"rootPath": "/Users/jackpeck/Documents/dev/Web/personal_website_gatsby",
-		"paths": [],
-		"group": "",
-		"enabled": true
-	},
-	{
-		"name": "schedule_app",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/schedule_app",
 		"paths": [],
 		"group": "",
 		"enabled": true
@@ -29,7 +15,7 @@
 	},
 	{
 		"name": "orientamento",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/wp_sites/orientamento/wp-content/themes/orientamento",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/wp_sites/orientamento/web/app/themes/orientamento",
 		"paths": [],
 		"group": "",
 		"enabled": true

@@ -9,10 +9,14 @@
 	"donjayamanne.githistory",
 	"dsznajder.es7-react-js-snippets",
 	"esbenp.prettier-vscode",
+	"GitHub.github-vscode-theme",
+	"golang.go",
 	"Gruntfuggly.todo-tree",
+	"jcbuisson.vue",
 	"jsDelivr.jsdelivr",
 	"kiteco.kite",
 	"leizongmin.node-module-intellisense",
+	"undefined_publisher.minimal",
 	"morgan-codes.morgan-codes-vscode-theme",
 	"mrmlnc.vscode-scss",
 	"ms-python.python",
@@ -24,5 +28,6 @@
 	"steoates.autoimport",
 	"Tyriar.lorem-ipsum",
 	"vscode-icons-team.vscode-icons",
-	"vscodevim.vim"
+	"vscodevim.vim",
+	"xr0master.webstorm-intellij-darcula-theme"
 ]

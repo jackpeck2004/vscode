@@ -22,8 +22,12 @@
     "git.autofetch": true,
     "git.confirmSync": false,
     "editor.lineNumbers": "on",
-    "workbench.colorTheme": "morgan.codes",
+    "workbench.colorTheme": "GitHub Dark",
     "explorer.confirmDragAndDrop": false,
     "editor.minimap.enabled": false,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.vue": "vue"
+    },
+    "workbench.editor.showTabs": true
 }
