@@ -1,7 +1,7 @@
 [
 	{
-		"name": "personal_website_gatsby",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/personal_website_gatsby",
+		"name": "personal_website: next",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/personal_website/next",
 		"paths": [],
 		"group": "",
 		"enabled": true
@@ -23,6 +23,13 @@
 	{
 		"name": "geoapp",
 		"rootPath": "/Users/jackpeck/Documents/dev/Web/geoapp",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "nextgems",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/wp_sites/nextgems/web/app/themes/nextgems",
 		"paths": [],
 		"group": "",
 		"enabled": true

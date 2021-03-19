@@ -22,12 +22,23 @@
     "git.autofetch": true,
     "git.confirmSync": false,
     "editor.lineNumbers": "on",
-    "workbench.colorTheme": "GitHub Dark",
     "explorer.confirmDragAndDrop": false,
     "editor.minimap.enabled": false,
-    "editor.formatOnSave": true,
     "files.associations": {
         "*.vue": "vue"
     },
-    "workbench.editor.showTabs": true
+    "workbench.editor.showTabs": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "editor.formatOnSave": true
 }
