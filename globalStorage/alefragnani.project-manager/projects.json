@@ -33,5 +33,26 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "CompSci: Web",
+		"rootPath": "/Users/jackpeck/Documents/cs/DP1/Web",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "CompSci: Problems",
+		"rootPath": "/Users/jackpeck/Documents/cs/DP1/Problems",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "TwitterClone",
+		"rootPath": "/Users/jackpeck/Documents/cs/DP1/Web/TwitterClone",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]

@@ -24,4 +24,8 @@
         "key": "ctrl+alt+t",
         "command": "-workbench.action.terminal.toggleTerminal"
     },
+    {
+        "key": "cmd+n", // "cmd+n" on mac
+        "command": "extension.advancedNewFile",
+    }
 ]

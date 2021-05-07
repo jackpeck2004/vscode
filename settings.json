@@ -6,7 +6,6 @@
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
     "terminal.external.osxExec": "iTerm.app",
-    "workbench.activityBar.visible": false,
     "workbench.iconTheme": "vscode-icons",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -27,7 +26,6 @@
     "files.associations": {
         "*.vue": "vue"
     },
-    "workbench.editor.showTabs": true,
     "[dart]": {
         "editor.formatOnSave": true,
         "editor.formatOnType": true,
@@ -40,5 +38,19 @@
         "editor.tabCompletion": "onlySnippets",
         "editor.wordBasedSuggestions": false
     },
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.activityBar.visible": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
 }
