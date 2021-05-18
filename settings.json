@@ -13,7 +13,6 @@
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
-    "window.zoomLevel": 0,
     "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -45,12 +44,11 @@
             "filenamePattern": "*.ipynb"
         }
     ],
-    "workbench.colorTheme": "Material Theme Darker",
-    "workbench.activityBar.visible": false,
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
-    }
+    },
+    "workbench.activityBar.visible": false
 }

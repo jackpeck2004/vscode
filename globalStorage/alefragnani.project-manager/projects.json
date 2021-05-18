@@ -54,5 +54,12 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "cs-ia: client",
+		"rootPath": "/Users/jackpeck/Documents/dev/GoProjects/cs-ia/client",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]
