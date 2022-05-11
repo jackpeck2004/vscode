@@ -1,1 +1,1 @@
-{"version":"1.0","registers":[["%",[{"text":"index.js","registerMode":1}]],["#",[{"text":"/Users/jackpeck/Documents/dev/Web/looop/server/routes/auth.ts","registerMode":1}]]]}
+{"version":"1.0","registers":[["%",[{"text":"package.json","registerMode":0}]],["#",[{"text":"src/components/button/index.tsx","registerMode":0}]],["\"",[{"registerMode":1,"text":"</div>"}]],["-",[{"text":"/","registerMode":1}]],["0",[{"text":"import AceEditor from \"react-ace\";","registerMode":1}]],["1",[{"text":"</div>","registerMode":1}]],["/",[{"text":"images","registerMode":0}]]]}

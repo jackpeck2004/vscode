@@ -1,0 +1,9 @@
+
+export const toDate = (dateString: string) => {
+
+var dateParts = dateString.split("/");
+
+// month is 0-based, that's why we need dataParts[1] - 1
+//@ts-ignore
+return new Date(+dateParts[2], dateParts[1] - 1, +dateParts[0]);
+}

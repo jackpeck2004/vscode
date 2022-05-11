@@ -1,0 +1,58 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "sync.gist": "3ddf25c7166e904d57a9bddf36d2f2db",
+  "todo-tree.tree.showScanModeButton": false,
+  "editor.fontLigatures": true,
+  "terminal.external.osxExec": "iTerm.app",
+  "workbench.iconTheme": "vscode-icons",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "editor.lineNumbers": "on",
+  "explorer.confirmDragAndDrop": false,
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false,
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.fontFamily": "Menlo, 'JetBrains Mono', Monaco, 'Courier New', monospace",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "auto-close-tag.fullMode": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.largeFileOptimizations": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "open-in-vim.openMethod": "macos.iterm",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.inlineSuggest.enabled": true,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "workbench.activityBar.visible": false
+}

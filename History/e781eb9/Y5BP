@@ -1,0 +1,15 @@
+FROM node:14
+
+WORKDIR /home/node/app
+
+RUN chown -R node:node /home/node/app
+
+USER node
+
+COPY package.json package-lock.json ./
+
+RUN npm install
+RUN npm rebuild node-sass
+RUN npm install nodemon -g
+
+COPY --chown=node:node . .

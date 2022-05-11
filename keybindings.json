@@ -1,31 +1,54 @@
 // Place your key bindings in this file to override the defaultsauto[]
 [
-    {
-        "key": "ctrl+alt+f",
-        "command": "editor.action.formatDocument"
-    },
-    {
-        "key": "ctrl+alt+b",
-        "command": "-editor.action.formatDocument"
-    },
-    {
-        "key": "shift+alt+m",
-        "command": "npm-intellisense.import"
-    },
-    {
-        "key": "shift+cmd+\\",
-        "command": "workbench.action.toggleActivityBarVisibility"
-    },
-    {
-        "key": "shift+alt+t",
-        "command": "workbench.action.terminal.toggleTerminal"
-    },
-    {
-        "key": "ctrl+alt+t",
-        "command": "-workbench.action.terminal.toggleTerminal"
-    },
-    {
-        "key": "cmd+n", // "cmd+n" on mac
-        "command": "extension.advancedNewFile",
-    }
+  {
+    "key": "ctrl+alt+f",
+    "command": "editor.action.formatDocument"
+  },
+  {
+    "key": "ctrl+alt+b",
+    "command": "-editor.action.formatDocument"
+  },
+  {
+    "key": "shift+alt+m",
+    "command": "npm-intellisense.import"
+  },
+  {
+    "key": "shift+cmd+\\",
+    "command": "workbench.action.toggleActivityBarVisibility"
+  },
+  {
+    "key": "shift+alt+t",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "ctrl+alt+t",
+    "command": "-workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "cmd+n", // "cmd+n" on mac
+    "command": "extension.advancedNewFile"
+  },
+  {
+    "key": "shift+cmd+r",
+    "command": "-rerunSearchEditorSearch",
+    "when": "inSearchEditor"
+  },
+  {
+    "key": "cmd+r",
+    "command": "editor.action.startFindReplaceAction",
+    "when": "editorFocus || editorIsOpen"
+  },
+  {
+    "key": "alt+cmd+f",
+    "command": "-editor.action.startFindReplaceAction",
+    "when": "editorFocus || editorIsOpen"
+  },
+  {
+    "key": "alt+r",
+    "command": "workbench.action.gotoSymbol"
+  },
+  {
+    "key": "cmd+r",
+    "command": "-workbench.action.gotoSymbol"
+  }
 ]

@@ -3,63 +3,98 @@
 		"name": "personal_website: next",
 		"rootPath": "/Users/jackpeck/Documents/dev/Web/personal_website/next",
 		"paths": [],
-		"group": "",
+		"tags": [],
 		"enabled": true
 	},
 	{
 		"name": "twin media center",
 		"rootPath": "/Users/jackpeck/Documents/dev/Web/wp_sites/twin_mktg/web/app/themes/twin",
 		"paths": [],
-		"group": "",
+		"tags": [],
 		"enabled": true
 	},
 	{
 		"name": "orientamento",
 		"rootPath": "/Users/jackpeck/Documents/dev/Web/wp_sites/orientamento/web/app/themes/orientamento",
 		"paths": [],
-		"group": "",
+		"tags": [],
 		"enabled": true
 	},
 	{
-		"name": "geoapp",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/geoapp",
+		"name": "CompSci IA",
+		"rootPath": "/Users/jackpeck/Documents/dev/cs-ia",
 		"paths": [],
-		"group": "",
+		"tags": [],
 		"enabled": true
 	},
 	{
-		"name": "nextgems",
-		"rootPath": "/Users/jackpeck/Documents/dev/Web/wp_sites/nextgems/web/app/themes/nextgems",
+		"name": "ace-test",
+		"rootPath": "/Users/jackpeck/Documents/dev/Web/ace-test",
 		"paths": [],
-		"group": "",
+		"tags": [],
 		"enabled": true
 	},
 	{
-		"name": "CompSci: Web",
-		"rootPath": "/Users/jackpeck/Documents/cs/DP1/Web",
+		"name": "cherry-challenge:validator",
+		"rootPath": "/Users/jackpeck/Documents/dev/cherry-hackathon/validator",
 		"paths": [],
-		"group": "",
+		"tags": [],
 		"enabled": true
 	},
 	{
-		"name": "CompSci: Problems",
-		"rootPath": "/Users/jackpeck/Documents/cs/DP1/Problems",
+		"name": "packages:extractor",
+		"rootPath": "/Users/jackpeck/Documents/dev/packages/json-value-extractor",
 		"paths": [],
-		"group": "",
+		"tags": [],
 		"enabled": true
 	},
 	{
-		"name": "TwitterClone",
-		"rootPath": "/Users/jackpeck/Documents/cs/DP1/Web/TwitterClone",
+		"name": "cherry-challenge:platform",
+		"rootPath": "/Users/jackpeck/Documents/dev/cherry-hackathon/platform",
 		"paths": [],
-		"group": "",
+		"tags": [],
 		"enabled": true
 	},
 	{
-		"name": "cs-ia: client",
-		"rootPath": "/Users/jackpeck/Documents/dev/GoProjects/cs-ia/client",
+		"name": "cherry-challenge:file-publisher",
+		"rootPath": "/Users/jackpeck/Documents/dev/cherry-hackathon/file-publisher",
 		"paths": [],
-		"group": "",
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "cherry-hackathon",
+		"rootPath": "/Users/jackpeck/Documents/dev/cherry-hackathon",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "twin-monorepo",
+		"rootPath": "/Users/jackpeck/Documents/dev/twin-monorepo",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "packages:typescript-graphql-server",
+		"rootPath": "/Users/jackpeck/Documents/dev/packages/typescript-graphql-server",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "twin:media-center",
+		"rootPath": "/Users/jackpeck/Documents/dev/twin/media-center",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "twin:pr_wp_downloads",
+		"rootPath": "/Users/jackpeck/Documents/dev/twin/pr_wp_downloads",
+		"paths": [],
+		"tags": [],
 		"enabled": true
 	}
 ]
