@@ -32,7 +32,7 @@
                         "label": "Open Wor&&kspace from File..."
                     },
                     {
-                        "id": "submenuitem.37",
+                        "id": "submenuitem.36",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -47,13 +47,23 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/Users/jackpeck/Documents/dev/gutenberg",
-                                        "external": "file:///Users/jackpeck/Documents/dev/gutenberg",
-                                        "path": "/Users/jackpeck/Documents/dev/gutenberg",
+                                        "fsPath": "/Users/jackpeck/Documents/dev/cc/platform",
+                                        "external": "file:///Users/jackpeck/Documents/dev/cc/platform",
+                                        "path": "/Users/jackpeck/Documents/dev/cc/platform",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/dev/gutenberg"
+                                    "label": "~/Documents/dev/cc/platform"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/jackpeck/Documents/dev/twin/media-center/backend",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/dev/twin/media-center/backend"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -64,6 +74,16 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Documents/dev/twin/media-center/frontend"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/jackpeck/Documents/dev/gutenberg",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/dev/gutenberg"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -84,16 +104,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Documents/dev/Web/cs-ia"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "path": "/Users/jackpeck/Documents/dev/twin/media-center/backend",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/dev/twin/media-center/backend"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -134,16 +144,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Documents/dev/Web/andreabriganti.it/web/app/themes/andreabriganti.it"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "path": "/Users/jackpeck/Documents/dev/Web/wp_sites/twin_mktg",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/dev/Web/wp_sites/twin_mktg"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -286,11 +286,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "saveAll",
@@ -309,11 +311,13 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor"
+                        "label": "&&Close Editor",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -355,11 +359,13 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find"
+                        "label": "&&Find",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace"
+                        "label": "&&Replace",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -480,7 +486,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.25",
+                        "id": "submenuitem.24",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -501,7 +507,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Primary Side Bar"
+                                    "label": "Show &&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -514,8 +521,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleActivityBarVisibility",
-                                    "label": "Show &&Activity Bar",
-                                    "checked": true
+                                    "label": "Show &&Activity Bar"
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
@@ -530,7 +536,7 @@
                                     "label": "&&Move Primary Side Bar Right"
                                 },
                                 {
-                                    "id": "submenuitem.35",
+                                    "id": "submenuitem.34",
                                     "label": "Panel Position",
                                     "submenu": {
                                         "items": [
@@ -551,7 +557,7 @@
                                     }
                                 },
                                 {
-                                    "id": "submenuitem.34",
+                                    "id": "submenuitem.33",
                                     "label": "Align Panel",
                                     "submenu": {
                                         "items": [
@@ -594,7 +600,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.32",
+                        "id": "submenuitem.31",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -613,6 +619,13 @@
                                 {
                                     "id": "workbench.action.splitEditorRight",
                                     "label": "Split &&Right"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -744,14 +757,13 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.39",
+                        "id": "submenuitem.38",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -800,7 +812,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.40",
+                        "id": "submenuitem.39",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -964,8 +976,7 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations",
-                        "enabled": false
+                        "label": "Open &&Configurations"
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -1002,7 +1013,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.33",
+                        "id": "submenuitem.32",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1290,8 +1301,8 @@
                 "userSettingsLabel": "cmd+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Shift+Cmd+W",
-                "userSettingsLabel": "shift+cmd+w"
+                "label": "Cmd+W",
+                "userSettingsLabel": "cmd+w"
             },
             "undo": {
                 "label": "Cmd+Z",
@@ -1369,14 +1380,6 @@
                 "label": "Ctrl+Cmd+Down",
                 "userSettingsLabel": "ctrl+cmd+down"
             },
-            "editor.action.insertCursorAbove": {
-                "label": "Alt+Cmd+Up",
-                "userSettingsLabel": "alt+cmd+up"
-            },
-            "editor.action.insertCursorBelow": {
-                "label": "Alt+Cmd+Down",
-                "userSettingsLabel": "alt+cmd+down"
-            },
             "editor.action.insertCursorAtEndOfEachLineSelected": {
                 "label": "Shift+Cmd+L",
                 "userSettingsLabel": "shift+cmd+l"
@@ -1421,6 +1424,11 @@
                 "label": "⌘NumPad0",
                 "isNative": false,
                 "userSettingsLabel": "cmd+numpad0"
+            },
+            "workbench.action.splitEditorInGroup": {
+                "label": "⌘K ⇧⌘\\",
+                "isNative": false,
+                "userSettingsLabel": "cmd+k shift+cmd+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Alt+Cmd+0",
@@ -1652,20 +1660,20 @@
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 28,
-            "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "activityBarWidth": 0,
+            "sideBarWidth": 326,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///Users/jackpeck/Documents/dev/gutenberg",
-            "backupPath": "/Users/jackpeck/Library/Application Support/Code - Insiders/Backups/4857fca34fedef86135237f4b88cb243",
+            "folder": "file:///Users/jackpeck/Documents/dev/cc/platform",
+            "backupPath": "/Users/jackpeck/Library/Application Support/Code - Insiders/Backups/7ab45969471a8c77df6c2643b790c94d",
             "uiState": {
                 "mode": 1,
-                "x": 567,
-                "y": 230,
+                "x": 0,
+                "y": 25,
                 "width": 2048,
                 "height": 1192
             }
